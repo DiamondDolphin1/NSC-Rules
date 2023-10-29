@@ -1,5 +1,5 @@
 # NSC Rules
-:Rules: - Discord Rules
+Discord Rules
 > Common Sense
 Be respectful, and welcoming.
 Do not attempt to bypass any blocked words. Do not link scam websites
@@ -41,7 +41,7 @@ Ex. Saying the N word.
 > Follow Discord ToS
 https://discord.com/terms
 <:Rules:1165567203597373511> **-** Discord Rules
-:Rules: In-game Rules
+In-game Rules
 > Random Death Match
 You are not allowed to randomly kill someone unless it's a roleplay. This could result in a warning.
 
