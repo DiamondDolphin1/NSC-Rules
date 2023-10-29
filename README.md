@@ -39,7 +39,6 @@ Ex. Saying the N word.
 
 > Follow Discord ToS
 https://discord.com/terms
-<:Rules:1165567203597373511> **-** Discord Rules
 
 In-game Rules
 > Random Death Match
