@@ -1,4 +1,4 @@
-# NSC Rules
+# North Shieldscombe Rules
 Discord Rules
 > Common Sense
 Be respectful, and welcoming.
@@ -40,7 +40,7 @@ Ex. Saying the N word.
 
 > Follow Discord ToS
 https://discord.com/terms
-<:Rules:1165567203597373511> **-** Discord Rules
+
 In-game Rules
 > Random Death Match
 You are not allowed to randomly kill someone unless it's a roleplay. This could result in a warning.
